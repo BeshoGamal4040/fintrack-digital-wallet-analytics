@@ -1,0 +1,15 @@
+{
+  "name": "FinTrack Theme",
+  "dataColors": [
+    "#1F4E79",
+    "#5B9BD5",
+    "#70AD47",
+    "#ED7D31",
+    "#A5A5A5",
+    "#4472C4",
+    "#FFC000"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#1F4E79"
+}
